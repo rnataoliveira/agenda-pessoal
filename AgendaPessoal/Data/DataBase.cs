@@ -11,7 +11,7 @@ namespace AgendaPessoal.Data
     {
         protected string strSql = "";
         protected StringBuilder stbSql = new StringBuilder();
-        protected SqlConnection sqlConexao = new SqlConnection(@"Data Source=DESKTOP-BBI3TPC;Initial Catalog=agenda;Integrated Security=True");
+        protected SqlConnection sqlConexao = new SqlConnection(@"Data Source=RNT;Initial Catalog=AGENDA;Integrated Security=True");
         protected SqlCommand sqlComando;
         protected SqlDataReader dr;
 
