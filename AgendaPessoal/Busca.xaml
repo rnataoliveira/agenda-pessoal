@@ -1,0 +1,26 @@
+﻿<Window x:Class="AgendaPessoal.Busca"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AgendaPessoal"
+        mc:Ignorable="d"
+        Title="Busca" Height="400" Width="700">
+    <Grid>
+        <TextBox x:Name="txtBuscarLembrete" FontWeight="Light" 
+            HorizontalAlignment="Left" Height="23" Margin="150,145,0,0"
+            TextWrapping="Wrap" Text="" VerticalAlignment="Top"
+            Width="400" TextChanged="txtBuscarLembrete_TextChanged"/>
+        <Button x:Name="btnBuscarLembrete" Content="Buscar" FontWeight="Light"
+            HorizontalAlignment="Left" Margin="250,190,0,0" 
+            VerticalAlignment="Top" Width="200" Click="btnBuscarLembrete_Click"
+            Height="45"/>
+        <Label Content="Buscar Lembrete" FontSize="15" FontWeight="Bold"
+            HorizontalAlignment="Center" VerticalAlignment="Top"
+            Margin="266,50,285,0" Width="141" Height="46"/>
+        <Label Content="Agenda Pessoal" FontSize="25"
+            HorizontalAlignment="Center" FontWeight="Light" 
+            Margin="246,10,246,0" VerticalAlignment="Top" Width="200"/>
+
+    </Grid>
+</Window>

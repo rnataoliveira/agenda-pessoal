@@ -1,0 +1,42 @@
+﻿<Window x:Class="AgendaPessoal.Adiciona"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AgendaPessoal"
+        mc:Ignorable="d"
+        Title="Adiciona" Height="400" Width="700">
+    <Grid>
+        <Label Content="Agenda Pessoal" FontSize="25"
+            HorizontalAlignment="Center" FontWeight="Light" 
+            Margin="246,7,246,0" VerticalAlignment="Top" Width="200"/>
+        <Label Content="Adicionar Lembrete" FontSize="15" FontWeight="Bold"
+            HorizontalAlignment="Center" VerticalAlignment="Top"
+            Margin="269,50,282,0" Width="141" Height="46"/>
+        <TextBox x:Name="txtNome" FontWeight="Light" 
+            HorizontalAlignment="Left" Height="23" Margin="150,96,0,0"
+            TextWrapping="Wrap" Text="Nome" VerticalAlignment="Top"
+            Width="400" TextChanged="txtNome_TextChanged"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" 
+            FontWeight="Light" Height="23" Margin="150,124,0,0"
+            TextWrapping="Wrap" Text="Email" VerticalAlignment="Top"
+            Width="200" TextChanged="txtEmail_TextChanged"/>
+        <TextBox x:Name="txtTelefone" HorizontalAlignment="Left" 
+            FontWeight="Light" Height="23" Margin="365,124,0,0" 
+            TextWrapping="Wrap" Text="Telefone" VerticalAlignment="Top"
+            Width="185" TextChanged="txtTelefone_TextChanged"/>
+        <TextBox x:Name="txtData" HorizontalAlignment="Left"
+            FontWeight="Light" Height="23" Margin="150,157,0,0"
+            TextWrapping="Wrap" Text="Data" VerticalAlignment="Top"
+            Width="145" TextChanged="txtData_TextChanged"/>
+        <TextBox x:Name="txtDescricao" HorizontalAlignment="Left"
+            FontWeight="Light" Height="100" Margin="200,193,0,0" 
+            TextWrapping="Wrap" Text="Descrição" VerticalAlignment="Top"
+            Width="300" TextChanged="txtDescricao_TextChanged"/>
+        <Button x:Name="btnCadastrarNovoLembrete" Content="Adicionar" FontWeight="Light"
+            HorizontalAlignment="Left" Margin="400,314,0,0" 
+            VerticalAlignment="Top" Width="150" Click="btnCadastrarNovoLembrete_Click"
+            Height="45"/>
+
+    </Grid>
+</Window>

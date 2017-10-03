@@ -1,0 +1,99 @@
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.exe.config
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.csprojResolveAssemblyReference.cache
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\MainWindow.baml
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\MainWindow.g.cs
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\App.g.cs
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.cache
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.g.resources
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.Properties.Resources.resources
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.csproj.GenerateResource.Cache
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.exe
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.pdb
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.exe
+C:\Users\dfracasso\Desktop\Portal\SDL nova estrutura\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.pdb
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.exe.config
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.exe
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.pdb
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.csprojResolveAssemblyReference.cache
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\MainWindow.baml
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\MainWindow.g.cs
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\App.g.cs
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.cache
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.lref
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.g.resources
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.Properties.Resources.resources
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.csproj.GenerateResource.Cache
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.exe
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.pdb
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\App.baml
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\Busca.g.cs
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\Editar.g.cs
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\VerLembretes.g.cs
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\Adiciona.g.cs
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\MaterialDesignColors.dll
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\MaterialDesignColors.pdb
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\Adiciona.baml
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\Busca.baml
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\Editar.baml
+C:\Users\renat\Desktop\AgendaPessoal\AgendaPessoal\AgendaPessoal\obj\Debug\VerLembretes.baml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\AgendaPessoal.exe.config
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\AgendaPessoal.exe
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\AgendaPessoal.pdb
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\MaterialDesignColors.dll
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\MaterialDesignColors.pdb
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal.csprojResolveAssemblyReference.cache
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\MainWindow.baml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\App.baml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\Adiciona.g.cs
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\Busca.g.cs
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\Editar.g.cs
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\MainWindow.g.cs
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\VerLembretes.g.cs
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\App.g.cs
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.cache
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.lref
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\Adiciona.baml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\Busca.baml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\Editar.baml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\VerLembretes.baml
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal.g.resources
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal.Properties.Resources.resources
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal.csproj.GenerateResource.Cache
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal.csproj.CoreCompileInputs.cache
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal.exe
+C:\Users\renat\dev\agenda-pessoal-wpf\AgendaPessoal\obj\Debug\AgendaPessoal.pdb
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\AgendaPessoal.exe.config
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal.exe
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal.pdb
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal.csprojResolveAssemblyReference.cache
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\MainWindow.baml
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\App.baml
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\Adiciona.g.cs
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\Busca.g.cs
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\Editar.g.cs
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\MainWindow.g.cs
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\VerLembretes.g.cs
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\App.g.cs
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.cache
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.lref
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\AgendaPessoal.exe
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\AgendaPessoal.pdb
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\MaterialDesignColors.dll
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\Adiciona.baml
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\Busca.baml
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\Editar.baml
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\VerLembretes.baml
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal.g.resources
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal.Properties.Resources.resources
+C:\Users\DouglasMachadoFracas\Desktop\facul 4 semestre\agenda-pessoal-wpf-master\AgendaPessoal\obj\Debug\AgendaPessoal.csproj.GenerateResource.Cache
